@@ -1,0 +1,27 @@
+# All audio and video files
+*.mp4
+*.webm
+
+# Environment files (if you use a virtual environment)
+venv/
+*.env
+.env.*
+
+# Python cache files
+__pycache__/
+*.pyc 
+*.pyo
+*.pyd
+
+#Model/embedding files
+*.joblib
+
+# Large data
+audios/
+videos/
+transcript/
+json/
+
+#macOS system files
+.DS_Store
+

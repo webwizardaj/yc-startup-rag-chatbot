@@ -1,0 +1,7 @@
+You're watching the YC Combinator startup series! So, you want to know what a startup is? Well, Patrick Collison from Stripe explains it in a very interesting way.
+
+A startup, according to Patrick, is an organization that hasn't yet figured out how to deal with all the principal agent problems. In other words, big companies have problems where individual employees' goals might not align with the company's overall goals. This can lead to suboptimal decisions and behaviors.
+
+In a startup, you have more freedom to act and make decisions quickly, without needing to consider everyone else's opinions. You can essentially "make all the information transparent" which allows for more efficient decision-making.
+
+If you want to learn more about this topic, I'd recommend checking out Lecture 1 (which covers this topic). Patrick explains it in a very conversational way, and it's definitely worth watching if you're interested in startups.
